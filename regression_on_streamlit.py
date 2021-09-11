@@ -11,6 +11,7 @@ from sklearn.metrics import r2_score
 
 sns.set()
 
+st.image("https://www.isb.edu/content/dam/sites/isb/about-isb/ISB_transparent_logo.png", width=400, height=500)
 
 # Display a title
 st.title('Linear regression on Boston house prices')
